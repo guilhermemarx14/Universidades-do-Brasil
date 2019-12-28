@@ -1,0 +1,125 @@
+Aplicadas do Paraná (FACET)
+Centro Técnico-Educ. Superior do Oeste Paranaense (CTESOP)
+Centro Universitário Campos de Andrade (UNIANDRADE)
+Centro Universitário Curitiba (UNICURITIBA)
+Centro Universitário Filadélfia (UNIFIL)
+Centro Universitário de Maringá (CESUMAR)
+Centro Universitário de União da Vitória (UNIUV)
+Centro de Ensino Superior Dos Campos Gerais (CESCAGE)
+Centro de Ensino Superior de Foz de Iguaçu (CESUFOZ)
+Escola Superior de Estudos Empresariais e Informática (ESEEI)
+Escola de Música e Belas Artes do Paraná (EMBAP)
+Faculdade Adventista Paranaense (IAP)
+Faculdade Alborada de Tecnología e Educação de Maringá (FAAB)
+Faculdade Alfa Brasil (FAAB)
+Faculdade Anchieta de Ensino Superior do Paraná (FAESP)
+Faculdade Arthur Thomas (CESA)
+Faculdade Assis Gurgacz (FAG)
+Faculdade Astorga (FAAST)
+Faculdade CIODONTO
+Faculdade Campo Real
+Faculdade Catuaí (ICES)
+Faculdade Cenecista de Campo Largo (FACECLA)
+Faculdade Centro Oeste do Paraná (FACEOPAR)
+Faculdade Centro Sul do Paraná
+Faculdade Claretiana de Teología
+Faculdade Cristo Rei (FACCREI)
+Faculdade Dom Bosco
+Faculdade Dom Bosco (FDB)
+Faculdade Nac. de Educação e Ensino Superior do Paraná (FASEESP)
+Faculdade Sagrada Familia (FASF)
+Faculdade Sant'Ana (IESSA)
+Faculdade Sul Brasil
+Faculdade São Judas Tadeu de Pinhas (FAPI)
+Faculdade Teológica Batista do Paraná (FTBP)
+Faculdade Teológica Sul Americana (FTSA)
+Faculdade Teológica da Assembléia de Deus (FATADC)
+Faculdade Unilagos
+Faculdade Unissa de Sarandi (UNISSA)
+Faculdade União das Américas
+Faculdade União de Campo Mourão
+Faculdade Vicentina (FAVI)
+Faculdade Vizinhança Vale do Iguaçu (VIZIVALI)
+Faculdade da Fronteira (FAF)
+Faculdade de Agronegócio Paraíso do Norte (FAPAN)
+Faculdade de Apucarana (FAP)
+Faculdade de Artes do Paraná (FAP)
+Faculdade de Cafelândia (FAC)
+Faculdade de Campina Grande do Sul (FACSUL)
+Faculdade de Ciência Aplicadas de Cascavel (FACIAP)
+Faculdade de Ciência Educacionais e Sistemas Integrados (FACESI)
+Faculdade de Ciência de Wenceslau Braz (FACIBRA)
+Faculdade de Ciência e Tecnología (FACITEC)
+Faculdade de Ciências Sociais
+Faculdade de Ciências Sociais Aplicadas de Cascavel (FCSAC)
+Faculdade de Cs., Letras e Educ. do Noroeste do Paraná (FACLENOR)
+Faculdade de Direito Francisco Beltrão (CESUL)
+Faculdade de Economía e Proc. de Dados de Foz do Iguaçu (FEPI)
+Faculdade de Educação Superior do Paraná (FESPPR)
+Faculdade de Educação São Braz
+Faculdade de Educação, Administração e Tecnología de Ibaiti (FEATI)
+Faculdade de Ensino Sup. de São Miguel do Iguaçu (FAESI)
+Faculdade de Ensino Superior Km 125
+Faculdade de Ensino Superior de Marecharl C. Rondon (ISEPE)
+Faculdade de Filosofia Ciências e Letras de Mandaguari (FAFIMAN)
+Faculdade de Jandaia do Sul (FAFIJAN)
+Faculdade de Pato Branco (FADEP)
+Faculdade de Realeza (CESREAL)
+Faculdade de Tecnología Alfa de Umuarama
+Faculdade de Tecnología América do Sul
+Faculdade de Tecnología CETE
+Faculdade de Tecnología ENSITEC
+Faculdade de Tecnología Herrero (FATEC)
+Faculdade de Tecnología IAPEC
+Faculdade de Tecnología Inesul do Paraná (FIPAR)
+Faculdade de Tecnología Inspirar
+Faculdade de Tecnología Integral (CETI)
+Faculdade de Tecnología Internacional (FATEC-INTERNACIONAL)
+Faculdade de Tecnología Machado de Assis (FAMA)
+Faculdade de Tecnología Martinus
+Faculdade de Tecnología Radial Curitiba
+Faculdade de Tecnología de Curitiba (FATECPR)
+Faculdade de Tecnología do Vale do Ivaí (FATEC-IVAI)
+Faculdade de Tecnología e Ciências do Norte do Paraná (FATECIE)
+Faculdade de Telêmaco Borba (FATEB)
+Faculdade de Teología Evangelica (FATEV)
+Faculdade do Centro Do Paraná (UCP)
+Faculdade do Litoral Paranaense (FLP)
+FaculdadeSão Basílio Magno (FASBAM)
+Faculdades Integradas Camões (FICA)
+Faculdades Integradas Espírita (FIES)
+Faculdades Integradas Santa Cruz de Curitiba (FARESC)
+Faculdades Integradas do Brasil (FACBRASIL)
+Faculdades Integradas do Vale do Iguaçu
+Faculdades Integradas do Vale do Ivaí
+Faculdades Itecne
+Faculdades Opet
+Faculdades Pequeno Príncipe (FPP)
+Faculdades Pequeno Príncipe (FPP)
+Faculdades SECAL
+Faculdades Spei
+Faculdades Unificadas de Foz do Iguaçu (UNIFOZ)
+Instituto Educacional de Castro (INEC)
+Instituto Federal de Educação Ciências e Tecnologia do Paraná (IFPR)
+Instituto Superior de Educação Nossa Senhora de Sion (ISE - SION)
+Instituto Superior de Educação Sant' Ana (ISESA)
+Instituto Superior de Educação de Guaratuba (ISEPE)
+Instituto Superior de Educação do Litaral do Paraná (ISULPAR)
+Instituto de Esino Superior de Curitiba (IESC)
+Pontifícia Universidade Católica do Paraná (PUCPR)
+Pontifícia Universidade Católica do Paraná (PUCPR)
+Pontifícia Universidade Católica do Paraná (PUCPR)
+Unidade de Ensino Superior Expoente (UNIEXP)
+Universidade Estadual de Londrina (UEL)
+Universidade Estadual de Maringá (UEM)
+Universidade Estadual de Ponta Grossa (UEPG)
+Universidade Estadual do Centro-Oeste (UNICENTRO)
+Universidade Estadual do Norte do Paraná (UENP)
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+Universidade Federal da Integração Latino-Americana (UNILA)
+Universidade Federal do Paraná (UFPR)
+Universidade Paranaense (UNIPAR)
+Universidade Positivo (UP)
+Universidade Tecnológica Federal do Paraná (UTFPR)
+Universidade Tuiuti do Paraná (UTP)
+Universidade do Norte do Paraná (UNOPAR)

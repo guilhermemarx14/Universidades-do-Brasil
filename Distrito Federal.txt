@@ -1,0 +1,47 @@
+Centro Universitário Euro-Americano (UNIEURO)
+Centro Universitário do Distrito Federal (UDF)
+Escola Superior de Ciências da Saúde (ESCS)
+Faculdade AIEC
+Faculdade Alvorada de Informática e Processamento de Dados (FAIPD)
+Faculdade Apogeu (APOGEU)
+Faculdade Evangélica (FE)
+Faculdade Evangélica (FE)
+Faculdade Fortium
+Faculdade JK
+Faculdade JK
+Faculdade Jesus Maria José (FAJESU)
+Faculdade LS (FACELS)
+Faculdade Mauá de Brasília (MAUADF)
+Faculdade Processus (PFD)
+Faculdade Projeção (FAPRO)
+Faculdade Projeção (FAPRO)
+Faculdade Santa Terezinha (FAST)
+Faculdade Serrana de Ensino Superior (FASEP)
+Faculdade UNISABER
+Faculdade das Àguas Emendadas (FAE)
+Faculdade de Artes Dulcina de Moraes (FADM)
+Faculdade de Cs. Sociais e Tecnológicas (FACITEC)
+Faculdade de Negócios e Tecnologias da Informação (FACNET)
+Faculdade de Tecnologia (CENACAP)
+Faculdade de Tecnologia Equipe Darwin (FTED)
+Faculdade de Tecnologia Regacionista (ROGA)
+Faculdade de Tecnologia do Transporte
+Faculdade do Meio Ambiente e Tecnologia de Negocios (FAMATEC)
+Faculdades COC de Brasília (FACOCBR)
+Faculdades Int. da União Educacional do Planalto Central (FACIPLAC)
+Faculdades Integradas Promove da Brasilia
+Faculdades Integradas da UPIS (UPIS)
+Faculdades Integradas da União de Ensino Superior Certo (UNICERTO)
+Faculdades Planalto (FACPLAN)
+IMP de Ensino Superior (IMP)
+Institituto Federal de Educação, Ciencia e Tecnologia de Brasilia (IFB)
+Institituto Superior de Educ. Franciscano Nossa Sra. de Fátima (FATIMA)
+Institituto Superior de Educação do CECAP (ISCECAP)
+Institituto Superior de Educação do ICESP
+Institituto de Ensino Superior Planalto (IESPLAN)
+Instituto Brasilense de Tecnologia e Ciência (IBTC)
+Instituto de Educação Superior de Brasília (IESB)
+Universidade Católica de Brasilia (UCB)
+Universidade Católica de Brasilia (UCB)
+Universidade de Brasilia (UNB)
+União Educacional de Brasilia (UNEB)
